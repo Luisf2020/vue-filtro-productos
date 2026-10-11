@@ -1,6 +1,6 @@
 # vue-filtro-productos
 
-![stack: Vue 3](https://img.shields.io/badge/stack--Vue%203-0d9488?style=flat-square) ![stack: Vite](https://img.shields.io/badge/stack--Vite-0d9488?style=flat-square) ![stack: Composition API](https://img.shields.io/badge/stack--Composition%20API-0d9488?style=flat-square)
+![stack: Vue 3](https://img.shields.io/badge/stack--Vue%203-0d9488?style=flat-square) ![stack: Vite](https://img.shields.io/badge/stack--Vite-0d9488?style=flat-square) ![stack: Composition API](https://img.shields.io/badge/stack--Composition%20API-0d9488?style=flat-square) [![Demo](https://img.shields.io/badge/demo-en%20vivo-22c55e?style=flat-square)](https://luisf2020.github.io/vue-filtro-productos/)
 ![IA: asistido](https://img.shields.io/badge/IA--asistido-6366f1?style=flat-square)
 
 Catalogo con filtro reactivo en Vue 3 (Composition API + script setup + props/computed).
@@ -51,8 +51,8 @@ El nivel describe la complejidad tecnica del proyecto, no el grado de dominio de
 
 ## Despliegue
 
-Pendiente de construir y publicar.  
-El codigo fuente si esta disponible en este repositorio.
+Demo en vivo: <https://luisf2020.github.io/vue-filtro-productos/>  
+Publicado con GitHub Pages (rama `gh-pages`).
 
 ## Autor
 
